@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "news_aqualas",
+    "slug": "snack-1a4486a4-e347-4055-b0a7-999e0223ec24",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "aqualas.news"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
